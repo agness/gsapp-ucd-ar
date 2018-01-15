@@ -214,6 +214,7 @@ nav .btn-su:active {
 }
 
 .jumbotron h1 {
+  font-size: 3em;
   font-weight: 300;
 }
 
@@ -344,8 +345,12 @@ h6 {
   letter-spacing: 0.04em;
 }
 
+/* normalize some silliness */
+h1 {
+  font-size: 3em;
+}
 h6 {
-  font-size: 1em; /* override bootstrap silliness */
+  font-size: 1em;
 }
 
 #prompts h5 {
