@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!--#set var="title" value="UCD for DigiPhys Env - Assignment 2: Needfinding" -->
+  <!--#include virtual="includes/header.shtml" -->
+</head>
+
+<body data-spy="scroll" data-target=".sidenav">
+
+  <!--#include virtual="includes/navigation.html" -->
+
+    <div class="assignment container">
+        <div class="row">
+            <div class="col-md-2">
+                <div class="sidenav" data-spy="affix" data-offset-top="80">
+                    <ul class="nav nav-stacked" id="sidenav-content">
+                    </ul>
+                </div> <!-- /sidenav -->
+            </div> <!-- /col-md-3 -->
+            <div class="col-md-8" id="assignment-description">
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1>Assignment 2: Needfinding</h1>
+
+                        <p class="lead">
+Working in pairs, choose a place of transaction on or near campus, identify a population of users, and develop a framework to express their needs.</p>
+
+                    </div>
+                </div>
+
+
+                <div id="week1" class="sidenav-anchor">
+                    <a name="week1"></a>
+                    <h2>Week 1: Plan</h2>
+                    <p>
+                        Choose a "place of transaction”—a transaction can be financial, material, knowledge-based, social, or based on your own interpretation. Choose a current site which you think embodies a usage of space that will still be needed in the future. For example, consider why people choose to live in cities, why people might still meet in person.
+                    </p><p>
+                    Identify an interesting problem or an intervention you want to bring to life in this space. What are the goals or changes you want to facilitate? Why might this goal be best addressed through a mixed reality experience? Keep in mind you will develop and iterate upon this concept over the next couple of months as we build toward a prototype that we can test with users.
+                    </p><p>
+                    Identify a segment of users whom you’d be addressing and define their roles and needs. For example, are there buyers vs. sellers, or students vs. teachers, or first arrivers vs. latecomers, in your space? List your guesses and assumptions about what your users need and what their motivations might be. How do they solve the problem today? Are they aware it is a problem?
+                    </p><p>
+                    How will you recruit users? What criteria might you use? Put together a discussion guide of questions and topics you plan to cover when you go out on interviews next week.
+                    </p><p>
+                    Create a presentation to share your ideas in class.</p>
+                </div>
+                <div id="week2" class="sidenav-anchor">
+                    <a name="week2"></a>
+                    <h2>Week 2: Observe</h2>
+                    <p>
+                    Spend some time in the space you chose, capturing a mix of sketches, notes, photos, and video.
+                    </p><p>
+                    Send a Google Form with a preliminary survey and recruit four people that fit your target user group; make sure they are available to meet for 30min. with you next week.
+                    </p><p>
+                    Based on your survey results and observations, design 6 provocations each illustrating a mixed reality experience or one aspect thereof. Your provocations should evoke a response from your interviewees that will tell you something (whether positive or negative) about your assumptions.
+                    </p><p>
+                    Organize your observations and provocations and present them in class.
+                    </p>
+                </div>
+                <div id="week3" class="sidenav-anchor">
+                    <a name="week3"></a>
+                    <h2>Week 3: Synthesis</h2>
+                    <p>
+                    Interview your four recruits and organize your findings. What surprised you? What do your users need? What are their pain points? Don't restrict your focus to just what people say and do, reflect also on what they think and feel. Create a few personas that capture the main users groups you’ve identified. Is there an overall framework you can use to guide future product design?
+                    </p><p>
+                    Finally, translate your needs into <a href="https://dschool.stanford.edu/resources/how-might-we-questions">How Might We...?</a> questions. Aim for at least ten “How Might We” questions.
+                    </p><p>
+                    Present your findings in class.</p>
+                </div>
+
+
+            </div>
+        </div>
+
+    </div>
+
+    <!--#include virtual="includes/footer.shtml" -->
+
+  </body>
+</html>

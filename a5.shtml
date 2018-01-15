@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!--#set var="title" value="UCD for DigiPhys Env - Assignment 5: Design as Critique" -->
+  <!--#include virtual="includes/header.shtml" -->
+</head>
+
+<body data-spy="scroll" data-target=".sidenav">
+
+  <!--#include virtual="includes/navigation.html" -->
+
+    <div class="assignment container">
+        <div class="row">
+            <div class="col-md-2">
+                <div class="sidenav" data-spy="affix"  data-offset-top="80">
+                    <ul class="nav nav-stacked" id="sidenav-content">
+                    </ul>
+                </div> <!-- /sidenav -->
+            </div> <!-- /col-md-3 -->
+            <div class="col-md-8" id="assignment-description">
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1>Assignment 5: Design as Critique</h2>
+
+<!--                         <p class="lead">...</p> -->
+                    </div>
+                </div>
+
+                <p>Working individually, choose one aspect of how mixed reality might impact the future and illustrate a speculative design. Create a presentation to share with the class.</p>
+                <p><i>TK</i></p>
+<!--                 <div id="week1" class="sidenav-anchor">
+                    <a name="week1"></a>
+                    <h2>Week 1: Storyboard</h2>
+                    <p>
+                    Brainstorm and design three divergent mixed reality experiences to address the users in your space. Illustrate and narrate the user experience through storyboards.
+                    </p><p>
+                    Present your storyboards in class.</p>
+                </div> -->
+
+            </div>
+        </div>
+
+    </div>
+
+    <!--#include virtual="includes/footer.shtml" -->
+
+  </body>
+</html>

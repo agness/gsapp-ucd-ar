@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!--#set var="title" value="UCD for DigiPhys Env - Assignment 6: Final Project" -->
+  <!--#include virtual="includes/header.shtml" -->
+</head>
+
+<body data-spy="scroll" data-target=".sidenav">
+
+  <!--#include virtual="includes/navigation.html" -->
+
+    <div class="assignment container">
+        <div class="row">
+            <div class="col-md-2">
+                <div class="sidenav" data-spy="affix" data-offset-top="80">
+                    <ul class="nav nav-stacked" id="sidenav-content">
+                    </ul>
+                </div> <!-- /sidenav -->
+            </div> <!-- /col-md-3 -->
+            <div class="col-md-8" id="assignment-description">
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1>Assignment 6: Final Project</h1>
+
+                        <p class="lead">
+Working in pairs, choose an existing physical site in the city and design a hybrid digital-physical intervention in the form of a location-based mobile app or augmented reality experience that facilitates the site’s goals.</p>
+
+                    </div>
+                </div>
+
+                <p><i>TK</i></p>
+
+                <div id="week1" class="sidenav-anchor">
+                    <a name="week1"></a>
+                    <h2>Week 1: Propose</h2>
+                    <!-- <p><i>TK</i></p> -->
+                </div>
+                <div id="week2" class="sidenav-anchor">
+                    <a name="week2"></a>
+                    <h2>Week 2: Research</h2>
+                    <!-- <p><i>TK</i></p> -->
+                </div>
+                <div id="week3" class="sidenav-anchor">
+                    <a name="week3"></a>
+                    <h2>Week 3: Prototype</h2>
+                    <!-- <p><i>TK</i></p> -->
+                </div>
+                <div id="week4" class="sidenav-anchor">
+                    <a name="week4"></a>
+                    <h2>Week 4: Evaluate</h2>
+                    <!-- <p><i>TK</i></p> -->
+                </div>
+                <div id="week5" class="sidenav-anchor">
+                    <a name="week5"></a>
+                    <h2>Week 5: Conclusion &amp; Documentation</h2>
+                    <!-- <p><i>TK</i></p> -->
+                </div>
+
+
+            </div>
+        </div>
+
+    </div>
+
+    <!--#include virtual="includes/footer.shtml" -->
+
+  </body>
+</html>

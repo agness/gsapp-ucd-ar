@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <!--#set var="title" value="XYZ Design Studio - Syllabus" -->
+  <!--#set var="title" value="UCD for DigiPhys Env - Syllabus" -->
   <!--#include virtual="includes/header.shtml" -->
 </head>
 
@@ -10,52 +10,119 @@
   <!--#include virtual="includes/navigation.html" -->
 
   <div class="container">
-  	<div class="row">
+    <div class="row">
 
-  		<div class="col-md-2">
+      <div class="col-md-2">
         <div class="sidenav" data-spy="affix" data-offset-top="80" data-offset-bottom="200">
           <ul class="nav nav-stacked" id="sidenav-content"></ul>
         </div> <!-- /sidenav -->
       </div> <!-- /col-md-2 -->
 
       <div class="col-md-8" id="syllabus">
-	      	<h1>Syllabus</h1>
+          <h1>Syllabus</h1>
 
-  			<div id="overview" class="sidenav-anchor">
-  				<h3>Overview</h3>
-  				<p>This class is titled HCI Design Studio because its goal is to give you an advanced design studio experience. Studio is a central component of class: each studio is headed by an industry professional with years of experience in design and user experience. Thank you to the Computer Science department for financial support for studio instructors.</p>
+        <div id="overview" class="sidenav-anchor">
+          <h3>Overview</h3>
+          <p>As emerging technologies such as VR/AR dissolve prior divides between the digital and physical experience, how can we draw upon interdisciplinary methods to design for the future mixed reality that is just around the corner? Through readings, discussions, and hands‐on projects, this course will examine principles of human‐computer interaction alongside qualitative and quantitative methods in architectural research. We will survey current technology trends and examine their implications for design and for society. Students will develop skills in user research, rapid‐prototyping, usability testing, and data collection as methods for excellent interaction and spatial design.</p>
 
-  				<p>Studios will provide you an opportunity to meet in smaller groups in order to discuss and reflect on assignments and progress. They will focus on interactive critique sessions, as well as specific activities intended to supplement and expand on ideas from lectures.</p>
+          <p>Weekly assignments will build toward a final project in which students will research, design, prototype and evaluate a mobile application or augmented reality prototype of a hybrid physical-digital experience, in a self‐chosen site in the city.</p>
+        </div>
 
-  				<p>Students must sign up for their studio on the first day of class.</p>
-  			</div>
+        <div id="objectives" class="sidenav-anchor">
+          <h3>Course Objectives</h3>
+          <ul>
+            <li>Add user-centered design methods to their repertoire of design skills, and understand the strengths and limitations of these methods and how they can be applied to the student’s own field of work.</li>
+            <li>Learn to use a variety of rapid prototyping tactics and tools (analog and digital) to prototype mixed reality experiences.</li>
+            <li>Understand technical concepts underlying mixed reality technologies, current state-of-the-art, and future challenges.</li>
+            <li>Gain familiarity with the unique interaction design needs of mixed reality experiences based on human physiology and psychology (e.g. ergonomics, sensory conflicts, gestural semantics.)</li>
+            <li>Develop a critical perspective on current and future trends in mixed reality design and their implications on society.
+          </ul>
+        </div>
+
+        <div id="schedule" class="sidenav-anchor">
+          <h3>Schedule</h3>
+          <!--#include virtual="includes/schedule.html" -->
+        </div> <!-- calendar end -->
+
+        <div id="grading" class="sidenav-anchor">
+          <h3>Grading</h3>
+          <ul>
+            <li>40% Weekly assignments</li>
+            <li>35% Final project</li>
+            <li>25% Participation and discussion</li>
+          </ul>
+        </div>
+
+        <div id="assignments" class="sidenav-anchor">
+          <h3>Assignments</h3>
+          <ul>
+            <li><a href="a1.shtml">A1 De-teched</a>: AR, scotch tape, and transparencies. I’ll explain.</li>
+            <li><a href="a2.shtml">A2 Needfinding</a>: working in pairs, choose a place of transaction, identify a population of users, and develop a framework to express their needs.</li>
+            <li><a href="a3.shtml">A3 Prototyping</a>: based on the user needs you identified, design a mixed reality experience and build a prototype.</li>
+            <li><a href="a4.shtml">A4 Evaluation</a>: test your prototype with people on the street.</li>
+            <li><a href="a5.shtml">A5 Design as Critique</a>: working individually, choose one aspect of how mixed reality might impact the future and illustrate a speculative design.</li>
+            <li><a href="a6.shtml">A6 Final Project</a>: working in pairs, choose a site in the city and design a location-based mobile app or augmented reality experience.</li>
+          </ul>
+        </div>
+
+        <div id="caveat-emptor" class="sidenav-anchor">
+          <h3>Caveat Emptor</h3>
+          Reasons you might plausibly want to take or drop this class:
+          <ul>
+            <li>This class is about “learning by doing”: we will read a lot and we will discuss a lot, but it’s mostly about doing and about building things for people to use.</li>
+            <li>We will talk about code in this class; however, you won’t come out with an iOS app at the end of the semester (unless you really want to.) That said, you can probably eke by without writing more than 20 lines of code.</li>
+            <li>Your assignments will involve interviewing and showing your work to people on the street, this might be scary.</li>
+            <li>This class is experimental: mixed reality is an emerging field and I’ll be learning from you as much as you will be learning from each other and myself. By the way, I’m not an architect. I’m very excited for us, as a class, to discover new intersections between architecture and software design as it applies to our future society, and I hope you are excited as well.</li>
+          </ul>
+        </div>
+
+        <div id="logistics" class="sidenav-anchor">
+          <h3>Logistics</h3>
+          <ul>
+            <li>Unless otherwise noted, each week we will begin class with 3min. presentations and discussion on the weekly assignment and reading.</li>
+            <li>Lecture slides, readings, assignments and tutorials will be posted to this course website unless otherwise announced.</li>
+            <li>Post questions, ideas, confusions, complaints and excitement to Piazza. Office hours by individual appointment.</li>
+          </ul>
+        </div>
 
         <div id="topics" class="sidenav-anchor">
-          <h3>Course Topics</h3>
+          <h3>Topics</h3>
           <ul>
-            <li>Data visualization history and concepts</li>
-            <li>Working with data: collection and analysis</li>
-            <li>Basic programming skills and web languages (HTML, CSS, Javascript)</li>
-            <li>Interactivity and online data visualization</li>
-            <li>Collaborative work and version control (GitHub)</li>
-            <li>Working with text data</li>
-            <li>APIs and Web-scraping</li>
-            <li>Generative art</li>
+            <li>Design
+            <ul>
+                <li>user research, quantitative and qualitative methods</li>
+                <li>user personas, user journeys and storyboarding</li>
+                <li>minimum viable product</li>
+                <li>usability principles</li>
+                <li>user studies and experiment design</li>
+                <li>information design</li>
+                <li>speculative design and design as critique</li>
+              </ul>
+            </li>
+            <li>Technology
+              <ul>
+                <li>location-based apps, virtual reality, augmented reality</li>
+                <li>head-mounted displays, MEMS sensors</li>
+                <li>world tracking</li>
+                <li>image recognition</li>
+                <li>machine learning</li>
+                <li>voice and gestural user interfaces</li>
+              </ul>
+            </li>
+            <li>Prototyping Tools
+              <ul>
+                <li>pen, paper, transparencies</li>
+                <li>Sketch, Invision, Marvel</li>
+                <li>Snapchat Lens Studio</li>
+                <li>Vuforia, Unity</li>
+                <li>iOS ARKit</li>
+              </ul>
+            </li>
           </ul>
         </div>
 
-  			<div id="grading" class="sidenav-anchor">
-  				<h3>Evaluation and Grading</h3>
-          <ul>
-            <li>10% Class participation and discussion</li>
-            <li>30% Individual assignments</li>
-            <li>25% Data visualization critique</li>
-            <li>35% Final project and final presentation</li>
-          </ul>
-        </div>
-
-  		</div> <!-- /col-md-8 -->
-  	</div> <!-- /row -->
+      </div> <!-- /col-md-8 -->
+    </div> <!-- /row -->
 
   </div> <!-- /container -->
 

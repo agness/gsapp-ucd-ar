@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!--#set var="title" value="UCD for DigiPhys Env - Assignment 3: Prototyping" -->
+  <!--#include virtual="includes/header.shtml" -->
+</head>
+
+<body data-spy="scroll" data-target=".sidenav">
+
+  <!--#include virtual="includes/navigation.html" -->
+
+    <div class="assignment container">
+        <div class="row">
+            <div class="col-md-2">
+                <div class="sidenav" data-spy="affix"  data-offset-top="80">
+                    <ul class="nav nav-stacked" id="sidenav-content">
+                    </ul>
+                </div> <!-- /sidenav -->
+            </div> <!-- /col-md-3 -->
+            <div class="col-md-8" id="assignment-description">
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1>Assignment 3: Prototyping</h2>
+
+                        <p class="lead">Based on the user needs you identified, design a mixed reality experience and build a prototype.</p>
+                    </div>
+                </div>
+                <div id="week1" class="sidenav-anchor">
+                    <a name="week1"></a>
+                    <h2>Week 1: Storyboard</h2>
+                    <p>
+                    Brainstorm and design three divergent mixed reality experiences to address the users in your space. Illustrate and narrate the user experience through storyboards.
+                    </p><p>
+                    Present your storyboards in class.</p>
+                </div>
+                <div id="week2" class="sidenav-anchor">
+                    <a name="week2"></a>
+                    <h2>Week 2: Implement</h2>
+                    <p>
+                    Choose one of your concepts to refine, decide on an appropriate prototyping method, and build it!
+                    </p><p>
+                    Present your prototype in class: we will be the first testers of your prototype.
+                    </p>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    <!--#include virtual="includes/footer.shtml" -->
+
+  </body>
+</html>

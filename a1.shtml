@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!--#set var="title" value="UCD for DigiPhys Env - Assignment 1: De-teched" -->
+  <!--#include virtual="includes/header.shtml" -->
+</head>
+
+<body data-spy="scroll" data-target=".sidenav">
+
+  <!--#include virtual="includes/navigation.html" -->
+
+    <div class="assignment container">
+        <div class="row">
+            <div class="col-md-2">
+                <div class="sidenav" data-spy="affix"  data-offset-top="80">
+                    <ul class="nav nav-stacked" id="sidenav-content">
+                    </ul>
+                </div> <!-- /sidenav -->
+            </div> <!-- /col-md-3 -->
+            <div class="col-md-8" id="assignment-description">
+
+                <div id="part1" class="sidenav-anchor">
+                    <a name="part1"></a>
+                    <h2>Part 1: Four days</h2>
+                    <p>
+                        Choose an augmented reality mobile app (make sure you own a supported device or can borrow one from a friend.) Over four consecutive days, open it up at least once a day. Share with the class:</p>
+                        <ul>
+                        <li>What did you do each day?</li>
+                        <li>What was unexpected?</li>
+                        </ul>
+                </div>
+                <div id="part2" class="sidenav-anchor">
+                    <a name="part2"></a>
+                    <h2>Part 2: De-teched</h2>
+                    <p>
+                        Imagine it’s the year 2023 and you designed Buell Hall as it is, except you had the foresight to also make the building smart (interpret “smart” as you like.) Your users are students who enter your building and might want to know a piece of information or want help with something; they could be new students or returning students. You can assume everyone will have some sort of AR device like Google Glass in 2023.</p>
+                        <p>Choose a user scenario and design a mini AR interaction that you can present in class using only the following materials:</p>
+                        <ul>
+                            <li>pen + paper</li>
+                            <li>6 transparencies</li>
+                            <li>scotch tape</li>
+                            <li>my iPad, showing an active camera feed</li>
+                        </ul>
+                </div>
+
+
+            </div>
+        </div>
+
+    </div>
+
+  </body>
+
+  <!--#include virtual="includes/footer.shtml" -->
+
+</html>

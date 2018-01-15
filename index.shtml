@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<!--#set var="title" value="XYZ Design Studio - HCI Design Studio" -->
+	<!--#set var="title" value="UCD for Emerging Digital-Physical Environments" -->
 	<!--#include virtual="includes/header.shtml" -->
 </head>
 
@@ -11,18 +11,17 @@
 
 	<div class="jumbotron" id="frontpage">
 		<div class="container">
-			<h1><span class="course-name">XYZ Design Studio</span></h1>
-			<p>Visual Studies A1234 &middot; Spring 2018</p>
+			<h1><span class="course-name">User-Centered Design for Emerging Digital-Physical Environments</span></h1>
+			<p>Visual Studies A4894 &middot; Spring 2018</p>
 		</div>
 	</div>
 
 	<div class="container">
 
-
 		<div id="syllabus">
 
 			<p class="lead">
-				This class lorem ipsum provides an introduction to working with information, data and visualization in a hands-on studio learning environment. Studies the history and theory of information, alongside a series of projects in which students apply the concepts directly. Topics include storytelling and narrative, choosing representations, understanding audiences, and the role of designers working with data.
+				As emerging technologies such as VR/AR dissolve prior divides between the digital and physical experience, how can we draw upon interdisciplinary methods to design for the future mixed reality that is just around the corner? Through readings, discussions, and hands‐on projects, this course will examine principles of human‐computer interaction alongside qualitative and quantitative methods in architectural research. We will survey current technology trends and examine their implications for design and for society. Students will develop skills in user research, rapid‐prototyping, usability testing, and data collection as methods for excellent interaction and spatial design.
 			</p>
 
 			<hr>
@@ -41,195 +40,38 @@
 
 				<div class="col-sm-4">
 					<h5>Time</h5>
-					Mon 7-9pm, Avery 100<br>
+					Tues 7-9pm, Buell 200<br>
 					</div>
-
+<!--
 				<div class="col-sm-4">
 					<h5>TA</h5>
 					<ul class="list-unstyled">
 						<li>TBD</li>
 					</ul>
-				</div>
+				</div> -->
 
 			</div>
 		</div>
 
 		<hr>
 
-		<!-- <h3>Calendar</h3> -->
-<!-- 		<div class="row">
-			<div class="col-sm-12">
-				<div class="hidden-xs">
-					<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=WEEK&amp;wkst=2&amp;bgcolor=%23fbfbf9&amp;src=stanford.edu_au5u6un56ai57128du0o34095k%40group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
-				</div>
-				<div class="visible-xs-block">
-					<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;wkst=2&amp;bgcolor=%23fbfbf9&amp;src=stanford.edu_au5u6un56ai57128du0o34095k%40group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
-				</div>
-			</div>
-		</div>
-
-		<hr> -->
-
-		<h5>Learning goals</h5>
+		<h5>Course Objectives</h5>
+		Students will...
 		<ul id="learning-goals">
-			<li>Students will become comfortable critiquing, receiving critiques, and iterating on their designs in an advanced studio environment.</li>
-			<li>Students will be able to perform needfinding with community members and stakeholders that goes beyond surface-level observations and produces deeper insights and needs.</li>
-			<li>Students will be able to communicate their ideas: visually through sketching and mocks, through show-and-tell reports to studio, and through presentation to large groups.</li>
-			<li>Students will be able to identify the most appropriate question to answer for their design, and to rapidly create a prototype to do so.</li>
-			<li>Students will be able to utilize current tools and technologies (e.g. Sketch and HTML/JS/CSS/Bootstrap) to produce high-quality designs.</li>
+			<li>Add user-centered design methods to their repertoire of design skills, and understand the strengths and limitations of these methods and how they can be applied to the student’s own field of work.</li>
+			<li>Learn to use a variety of rapid prototyping tactics and tools (analog and digital) to prototype mixed reality experiences.</li>
+			<li>Understand technical concepts underlying mixed reality technologies, current state-of-the-art, and future challenges.</li>
+			<li>Gain familiarity with the unique interaction design needs of mixed reality experiences based on human physiology and psychology (e.g. ergonomics, sensory conflicts, gestural semantics.)</li>
+			<li>Develop a critical perspective on current and future trends in mixed reality design and their implications on society.
+</li>
 		</ul>
 
 		<hr>
 
-		<div id="calendar">
-			<div class="table-static">
-				<table class="table">
-					<thead>
-						<tr>
-							<th class="hidden-xs">Week</th>
-							<th>Lecture</th>
-							<th>Assignment</th>
-						</tr>
-					</thead>
-					<tbody>
+    <div id="schedule">
+      <!--#include virtual="includes/schedule.html" -->
+    </div> <!-- calendar end -->
 
-						<tr>
-							<td class="hidden-xs"><h6>1</h6></td>
-							<td>
-								<h6>April 3</h6>
-								<p>Class intro &amp; Critique <a href="slides/01-intro-crit.pdf">slides</a></p>
-							</td>
-							<td>
-								<h6>&nbsp;</h6>
-								<p>Read <a href="http://www.jessethompsonart.com/artpage/Pre_C_drawing_Video_files/Understanding%20Comics%20(The%20Invisible%20Art)%20By%20Scott%20McCloud.pdf">Understanding Comics</a> (Chp. 1-3)</p>
-								<a href="assignments/a1.shtml">A1 (Critique)</a><br>
-                <a href="assignments/a2.shtml">A2 (Needfinding)</a><br>
-							</td>
-						</tr>
-
-						<tr>
-							<td class="hidden-xs"><h6>2</h6></td>
-							<td>
-								<h6>April 10</h6>
-								<p>Sketching and Interactive Explanations <a href="slides/03-sketching.pdf">slides</a></p>
-							</td>
-							<td>
-								<h6>&nbsp;</h6>
-                <p>Read <a href="https://nytimes.com">Something Else</a> (Pg. 0-12)</p>
-                <a href="assignments/a2-2.shtml">A2.2 (Needfinding)</a><br>
-							</td>
-						</tr>
-
-						<tr>
-							<td class="hidden-xs"><h6>3</h6></td>
-							<td>
-								<h6>April 17</h6>
-								<p>Brainstorming <a href="slides/05-brainstorming-lydia.pdf">slides</a></p>
-							</td>
-							<td>
-								<h6>&nbsp;</h6>
-                <p>Read <a href="https://fathom.info">Fathom</a> by Ben Fry</p>
-								<a href="assignments/a3-1.shtml">A3.1 (Prototyping)</a><br>
-							</td>
-						</tr>
-
-						<tr>
-							<td class="hidden-xs"><h6>4</h6></td>
-							<td>
-								<h6>April 24</h6>
-								<p>Parallel Prototyping <a href="slides/07-parallel-prototyping-lydia.pdf">slides</a></p>
-							</td>
-							<td>
-								<h6>&nbsp;</h6>
-								<a href="assignments/a3-1.shtml">A3.1 (Prototyping)</a><br>
-							</td>
-						</tr>
-
-						<tr>
-							<td class="hidden-xs"><h6>5</h6></td>
-							<td>
-								<h6>May 1</h6>
-								<p>Work Day</p>
-							</td>
-							<td>
-								<h6>&nbsp;</h6>
-								<p><a href="assignments/a3-3.shtml">A3.3 (Prototyping)</a></p>
-							</td>
-						</tr>
-
-						<tr>
-							<td class="hidden-xs"><h6>6</h6></td>
-							<td>
-								<h6>May 8 </h6>
-								<p>Information Design <a href="slides/09-information-design.pdf">slides</a></p>
-								<p>
-									<a href="slides/basics-of-sketch.pdf">Sketch workshop slides</a>
-								</p>
-							</td>
-							<td>
-								<h6>&nbsp;</h6>
-								<p>
-									<a href="assignments/a3-3.shtml">A3.3</a> and all earlier parts
-									<a href="assignments/a3.shtml">A3</a> due
-								</p>
-								<a href="assignments/a4.shtml">A4 (Final Assignment)</a>
-							</td>
-						</tr>
-
-						<tr>
-							<td class="hidden-xs"><h6>7</h6></td>
-							<td>
-								<h6>May 15</h6>
-								<p>Color, Type, Gestalt <a href="slides/11-color-type-gestalt.pdf">slides</a></p>
-							</td>
-							<td>
-								<h6>&nbsp;</h6>
-								<p></p>
-								<a href="assignments/a4.shtml">A4.1 Final Proposals</a>
-							</td>
-						</tr>
-
-						<tr>
-							<td class="hidden-xs"><h6>8</h6></td>
-							<td>
-								<h6>May 22</h6>
-								<p>Presenting Design Work <a href="slides/13-presentation.pdf">slides</a></p>
-							</td>
-							<td>
-								<h6>&nbsp;</h6>
-								<a href="assignments/a4.shtml">A4.1 Final Proposals</a>
-							</td>
-						</tr>
-
-						<tr>
-							<td class="hidden-xs"><h6>9</h6></td>
-							<td>
-								<h6>May 29</h6>
-								<p class="text-muted"><em>Spring Equinox—no class</em></p>
-							</td>
-							<td>
-								<h6>&nbsp;</h6>
-								<p>Guest lecturer: <a href="http://shancarter.com">Shan Carter</a>, from <a href="http://distill.pub">Distill</a></p>
-							</td>
-						</tr>
-
-						<tr>
-							<td class="hidden-xs"><h6>10</h6></td>
-							<td>
-								<h6>June 5</h6>
-								<p>Final Presentations during class</p>
-							</td>
-							<td>
-								<h6>&nbsp;</h6>
-								<p>Final documentation</p>
-							</td>
-						</tr>
-
-					</tbody>
-				</table>
-			</div> <!-- table-responsive end -->
-
-		</div> <!-- calendar end -->
 	</div> <!-- container end -->
 
 	<!--#include virtual="includes/footer.shtml" -->
