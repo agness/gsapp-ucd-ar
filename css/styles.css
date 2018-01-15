@@ -165,26 +165,27 @@ ul {
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .open > a:focus {
     color: #333;
-    background-color: #e7e7e7;
+    background-color: #fff;
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #e7e7e7;
+    background-color: #fff;
+    border: none;
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #e7e7e7;
+    background-color: #ddd;
 }
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #e7e7e7;
+    background-color: #000;
 }
 
 .navbar-default {
-    font-size: 1em;
+    font-size: 18px;
 }
 
 .navbar-default .navbar-brand {
-    font-size: 1em;
+    font-size: 18px;
 }
 
 nav .btn-su {
@@ -196,7 +197,7 @@ nav .btn-su {
 
 nav .btn-su:hover,
 nav .btn-su:active {
-  background-color: #eee;
+  background-color: #ddd;
 }
 
 
