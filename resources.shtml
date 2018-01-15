@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!--#set var="title" value="XYZ Design Studio - Resources" -->
+  <!--#include virtual="includes/header.shtml" -->
+</head>
+
+<body data-spy="scroll" data-target=".sidenav">
+  <!--#include virtual="includes/navigation.html" -->
+
+  <div class="container">
+  	<div class="row">
+
+  		<div class="col-md-2">
+        <div class="sidenav" data-spy="affix" data-offset-top="80" data-offset-bottom="200">
+          <ul class="nav nav-stacked" id="sidenav-content"></ul>
+        </div> <!-- /sidenav -->
+      </div> <!-- /col-md-3 -->
+
+      <div class="col-md-8" id="resources">
+	      <h1>Resources</h1>
+
+        <div id="tutorials" class="sidenav-anchor">
+          <h3>Tutorials</h3>
+
+          <div id="class-tutorials" class="sidenav-anchor">
+            <h4>For This Class</h4>
+            <ul>
+              <li><a href="/tutorials/t1.shtml">1: Setup your github account</a></li>
+              <li><a href="/tutorials/t2.shtml">2: p5.js helloworld</a></li>
+            </ul>
+          </div>
+          <div id="general-tutorials" class="sidenav-anchor">
+            <h4>General</h4>
+            <ul>
+              <li><a href="http://vis4.net/blog/posts/avoid-equidistant-hsv-colors/">How to Avoid Equidistant HSV Colors</a></li>
+              <li><a href="https://lisacharlotterost.github.io/2016/04/22/Colors-for-DataVis/">Your Friendly Guide to Colors in Data Visualization</a></li>
+              <li><a href="https://datavisualization.ch/inside/how-we-created-color-scales/">How We Created Color Scales</a>
+            </ul>
+          </div>
+        </div>
+
+  			<div id="grading" class="sidenav-anchor">
+  				<h3>Books</h3>
+
+  				<div id="data-visualization" class="sidenav-anchor">
+  					<h4>Data Visualization</h4>
+            <ul>
+              <li>Data Flow: Visualizing Information in Graphic Design</li>
+              <li>Data Flow 2: Visualizing Information in Graphic Design</li>
+              <li>Data Points, Nathan Yau</li>
+              <li>Visualizing Information for Advocacy, Tactical Technology Creative</li>
+              <li>Design for Information, Isabel Meirelles</li>
+              <li>Semiology of Graphics, Jacques Bertin</li>
+              <li>The Visual Display of Quantitative Information (2nd Edition), Edward R. Tufte</li>
+              <li>Envisioning Information, E. R. Tufte</li>
+              <li>Visualization Analysis and Design, Tamara Munzer</li>
+              <li>Dear Data, Giorgia Lupi, Stefanie Posavec</li>
+              <li>Show Me the Numbers: Designing Tables and Graphs to Enlighten, Stephen Few</li>
+              <li>Now You See It: Simple Visualization Techniques for Quantitative Analysis, Stephen Few</li>
+              <li>Information Visualization: Perception for Design, Colin Ware</li>
+              <li>The Functional Art: An Introduction ton Information Graphics and Visualization, Alberto Cairo</li>
+            </ul>
+  				</div>
+  				<div id="programming" class="sidenav-anchor">
+  				  <h4>Programming</h3>
+            <ul>
+              <li>Data Flow: Visualizing Information in Graphic Design</li>
+              <li>Data Flow 2: Visualizing Information in Graphic Design</li>
+              <li>Data Points, Nathan Yau</li>
+            </ul>
+  				</div>
+  				<div id="graphic-design" class="sidenav-anchor">
+  					<h4>Graphic Design</h4>
+            <ul>
+              <li>Data Flow: Visualizing Information in Graphic Design</li>
+              <li>Data Flow 2: Visualizing Information in Graphic Design</li>
+              <li>Data Points, Nathan Yau</li>
+            </ul>
+  				</div>
+
+  				<div id="blogs-websites" class="sidenav-anchor">
+  					<h3>Blogs &amp; Websites</h3>
+            <ul>
+              <li><a href="http://www.visualisingdata.com/">Visualizing Data</a></li>
+              <li><a href="http://flowingdata.com">Flowingdata</a></li>
+              <li><a href="http://periscopic.com">Periscopic</a></li>
+              <li><a href="http://accurat.it">Accurat</a></li>
+              <li><a href="http://truth-and-beauty.net/">Moritz Stefaner</a></li>
+              <li><a href="http://feltron.com">Nocholas Felton</a></li>
+              <li><a href="http://www.thefunctionalart.com/">The Functional Art</a></li>
+              <li><a href="http://visualcomplexity.com">Visualcomplexity</a></li>
+              <li><a href="https://www.reddit.com/r/dataisbeautiful/">The r/dataisbeautiful subreddit</a></li>
+              <li><a href="http://www.economist.com/blogs/graphicdetail">The Economist - Graphic Detail</a></li>
+              <li><a href="https://www.nytimes.com/interactive/2016/12/28/us/year-in-interactive-graphics.html">The New York Times’ interactives</a></li>
+              <li><a href="http://www.nytimes.com/upshot/">New York Times - The Upshot</a></li>
+              <li><a href="http://visualoop.com/">Visualoop</a></li>
+              <li><a href="https://fivethirtyeight.com/features/the-52-best-and-weirdest-charts-we-made-in-2016/">FiveThirtyEight</a></li>
+              <li><a href="http://www.latimes.com/visuals/graphics/">LA Times</a></li>
+              <li><a href="http://graphics.wsj.com/wsj-interactives-2014/">Wall Street Journal</a></li>
+              <li><a href="https://twitter.com/PostGraphics">Washington Post</a></li>
+              <li><a href="http://qz.com/318339/all-of-the-charts-we-made-in-2014/">Quartz</a></li>
+              <li><a href="https://www.theguardian.com/interactive">The Guardian's interactives</a></li>
+              <li><a href="http://fathom.info/">Fathom</a></li>
+              <li><a href="http://map.datacanvas.org/#">Data Canvas</a></li>
+              <li><a href="http://www.laphamsquarterly.org/archive/charts-graphs">Lapham's Quaterly Charts and Graphs</a></li>
+              <li><a href="https://www.informationisbeautifulawards.com/">Information is Beautiful Awards</a></li>
+              <li><a href="http://www.maartenlambrechts.com/2017/12/28/the-list-of-2017-visualization-lists.html">The list of 2017 visualization lists</a></li>
+            </ul>
+
+  				</div>
+
+          <div id="software" class="sidenav-anchor">
+            <h3>Software</h3>
+            <ul>
+              <li>Sublime</li>
+              <li>Atom</li>
+              <li>...</li>
+            </ul>
+          </div>
+
+  				<div id="faq" class="sidenav-anchor">
+  					<h3>Frequently asked questions</h3>
+  					<div class="row">
+  						<div class="col-md-4">
+  		  					<strong>What's the amount of time involved in the class?</strong>
+  		  				</div>
+  		  				<div class="col-md-8">
+  		  					<p>There's a healthy amount of work involved. As with any design experience, you get out what you put in. Great assignments explore broadly and dive deep, and needfinding, design, implementation and evaluation take time to do well. Assignments will escalate in terms of ambition throughout the quarter. Expect that the final assignment will be a major effort in the last few weeks of class.</p>
+  		  				</div>
+  		  			</div>
+
+  					<div class="row">
+  						<div class="col-md-4">
+  		  					<strong>The class uses HTML and Javascript. Can our group use iOS programming?</strong>
+		  				</div>
+		  				<div class="col-md-8">
+		  					<p>We recommend against it. We choose technologies that give you a lot of interaction power for very little upfront cost. Others can   take many hours   to get running. Most group problems arise when one   person strongarms their teammates into using another technology. Late in the quarter, it turns out that only one person can really do the work, and that ca  uses all the problems you can i  magine. If you use the technology stack we teach, we will teach you key techniques and the TAs will help you if you get stuck. With other technologies, you're off-piste: we can't save you, and it can get awfully cold when the sun goes down. With that information, the choice is yours.</p>
+		  				</div>
+					</div>
+
+					<div class="row">
+						<div class="col-md-4">
+		  					<strong>Can I have an extension? I have a lot of work in other classes, I'll be out of town, I'm generally overwhelmed...</strong>
+		  				</div>
+		  				<div class="col-md-8">
+		  					<p>No. It's not because we're callous &mdash; we've all been in your shoes. Two reasons: 1) because sharing work in studio is   integral to     the class, there's no p  ractical way to offer extensi  ons. 2) Psychology teaches us that people consistently believe they'll have more time   in the future   than in the present -- and that   it's a fallacy. When you pick classes for the quarter, make sure not to overcommit. In our experience, you'll learn more and have a better resume by doing a great job in a smaller of classes, rather than trying to take as many units as humanly possible and doing a mediocre job with all of it.</p>
+		  				</div>
+					</div>
+
+  			<div class="row">
+  				<div class="col-md-4">
+    					<strong>A personal issue (health, family event, other commitment) will take me away from class. What should I do?</strong>
+    				</div>
+    				<div class="col-md-8">
+    					<p>Most importantly, let your studio instructor, TA and your team know ASAP. The sooner we hear from you, the more we can help. If you give your team a heads-up quickly, they're sure to be empathetic. If you just disappear for a few weeks, they'll be unlikely to want you back. Even if you have a good reason, no one likes being left out in the cold.</p>
+
+  					<p>Fairness requires us to grade on performance, not desire. Think about if this issue came up when you were about to take the SAT &mdash; or if it came up in a job. Realistically, if you're away for more than a week, you have two choices: you can push forward and accept lower performance, or you can drop the class and retake it when you have more time.</p>
+    				</div>
+    			</div>
+
+  			</div>
+
+      </div> <!-- /col-md-8 -->
+    </div> <!-- /row -->
+
+  </div> <!-- /container -->
+
+  <!--#include virtual="includes/footer.shtml" -->
+
+</body>
+
+</html>

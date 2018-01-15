@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!--#set var="title" value="XYZ Design Studio - Syllabus" -->
+  <!--#include virtual="includes/header.shtml" -->
+</head>
+
+<body data-spy="scroll" data-target=".sidenav">
+  <!--#include virtual="includes/navigation.html" -->
+
+  <div class="container">
+  	<div class="row">
+
+  		<div class="col-md-2">
+        <div class="sidenav" data-spy="affix" data-offset-top="80" data-offset-bottom="200">
+          <ul class="nav nav-stacked" id="sidenav-content"></ul>
+        </div> <!-- /sidenav -->
+      </div> <!-- /col-md-2 -->
+
+      <div class="col-md-8" id="syllabus">
+	      	<h1>Syllabus</h1>
+
+  			<div id="overview" class="sidenav-anchor">
+  				<h3>Overview</h3>
+  				<p>This class is titled HCI Design Studio because its goal is to give you an advanced design studio experience. Studio is a central component of class: each studio is headed by an industry professional with years of experience in design and user experience. Thank you to the Computer Science department for financial support for studio instructors.</p>
+
+  				<p>Studios will provide you an opportunity to meet in smaller groups in order to discuss and reflect on assignments and progress. They will focus on interactive critique sessions, as well as specific activities intended to supplement and expand on ideas from lectures.</p>
+
+  				<p>Students must sign up for their studio on the first day of class.</p>
+  			</div>
+
+        <div id="topics" class="sidenav-anchor">
+          <h3>Course Topics</h3>
+          <ul>
+            <li>Data visualization history and concepts</li>
+            <li>Working with data: collection and analysis</li>
+            <li>Basic programming skills and web languages (HTML, CSS, Javascript)</li>
+            <li>Interactivity and online data visualization</li>
+            <li>Collaborative work and version control (GitHub)</li>
+            <li>Working with text data</li>
+            <li>APIs and Web-scraping</li>
+            <li>Generative art</li>
+          </ul>
+        </div>
+
+  			<div id="grading" class="sidenav-anchor">
+  				<h3>Evaluation and Grading</h3>
+          <ul>
+            <li>10% Class participation and discussion</li>
+            <li>30% Individual assignments</li>
+            <li>25% Data visualization critique</li>
+            <li>35% Final project and final presentation</li>
+          </ul>
+        </div>
+
+  		</div> <!-- /col-md-8 -->
+  	</div> <!-- /row -->
+
+  </div> <!-- /container -->
+
+  <!--#include virtual="includes/footer.shtml" -->
+
+</body>
+
+</html>

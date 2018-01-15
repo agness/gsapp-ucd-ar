@@ -1,0 +1,12 @@
+<div id="footer">
+
+  <div class="contentinfo" role="contentinfo">
+    <div class="container">
+      <span class="">
+        <span class="copyright vcard">&copy; 2018 <span class="fn n">Agnes Chang</span>. Layout borrowed with gratitude 🙌 from Stanford <a href="https://github.com/StanfordHCI/cs247-2017-spring
+">CS 247</a>.</span>
+      </span>
+    </div>
+  </div>
+
+</div> <!-- footer end -->
