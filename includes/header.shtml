@@ -1,12 +1,12 @@
 <meta charset="utf-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Interaction Design Studio">
+<meta name="description" content="As emerging technologies such as VR/AR dissolve prior divides between digital and physical environments, this hands-on course takes a critical approach to interdisciplinary methods to design for our near-future mixed reality society.">
 <title><!--#echo var="title" --></title>
 
 <!-- Open Graph Metadata -->
 <meta property="og:image" content="https://cdn.filepicker.io/api/file/gd8QqEG4Sg6vJSP0Pd04/convert?fit=max&amp;format=&amp;quality=95&amp;w=2048&amp;compress=true" />
-<meta property="og:site_name" content="XYZ Design Studio | A1234" />
+<meta property="og:site_name" content="User-Centered Design for Emerging Digital-Physical Environments | GSAPP A4894 Spring 2018" />
 
 <!-- Bootstrap -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
