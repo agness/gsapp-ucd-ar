@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!--#set var="title" value="UCD for DigiPhys Env - Readings" -->
+  <!--#include virtual="includes/header.shtml" -->
+</head>
+
+<body data-spy="scroll" data-target=".sidenav">
+  <!--#include virtual="includes/navigation.html" -->
+
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-2">
+        <div class="sidenav" data-spy="affix" data-offset-top="80" data-offset-bottom="200">
+          <ul class="nav nav-stacked" id="sidenav-content"></ul>
+        </div> <!-- /sidenav -->
+      </div> <!-- /col-md-3 -->
+
+      <div class="col-md-8" id="readings">
+        <h1>Readings</h1>
+<!--
+        <div id="tutorials" class="sidenav-anchor">
+          <h3>Tutorials</h3>
+
+        </div> -->
+
+        <div id="jan16" class="sidenav-anchor">
+          <h3>Week 1: Jan 16</h3>
+          <ul>
+          <li><a href="https://www.domusweb.it/en/op-ed/2011/06/22/architecture-needs-to-interact.html">Architecture needs to interact</a> Domus, 2011</li>
+          <li><a href="https://www.wired.com/insights/2013/12/human-centered-design-matters/">Why Human-Centered Design Matters</a> WIRED, 2013</li>
+          <li><a href="https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d">We don't sell saddles here</a> medium.com, 2014</li>
+          <li><a href="https://medium.com/@warronbebster/the-future-of-augmented-reality-will-be-boring-fc95be238ef4">The future of AR will be boring</a> medium.com, 2017</li>
+          </ul>
+        </div>
+
+        <div id="jan16" class="sidenav-anchor">
+          <h3>Week 2: Jan 23</h3>
+          <ul>
+          <li><a href="https://courseworks2.columbia.edu/files/2308403/download?download_frd=1">The Design of Everyday Things, Chp.1</a>, by Don Norman (1988)<br>A user experience design classic, written by a cognitive scientist. Can interfaces can be designed according to how people think about using them, rather than how the thing was constructed?</li>
+          <li><a href="https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/">As We May Think</a> by Vannevar Bush (1945)<br>Originally published after WWII. For what ends do we design and build?</li>
+          <li><a href="https://courseworks2.columbia.edu/files/2308404/download?download_frd=1">Architectural Intelligence, Excerpts from Chp. 1, 5, 7</a>  by Molly Steenson (2017)<br>What were prior explorations of architecture x digital technology? (Feel free to skim over descriptions of historical computer systems — focus instead on the architect's concepts and intent; which of the author/architect's questions resonated with you?)</li>
+          <li><a href="https://medium.com/the-year-of-the-looking-glass/the-4-stages-of-0-1-products-cdb8236dbf66">The Four Stages of 0->1 Products</a> by Julie Zhou (2017)<br>Written by a design veteran at Facebook, an articulate outline of the design process behind the daily software products we all use.</li>
+          </ul>
+        </div>
+
+      </div> <!-- /col-md-8 -->
+    </div> <!-- /row -->
+
+  </div> <!-- /container -->
+
+  <!--#include virtual="includes/footer.shtml" -->
+
+</body>
+
+</html>

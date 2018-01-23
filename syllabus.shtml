@@ -112,10 +112,10 @@
             <li>Prototyping Tools
               <ul>
                 <li>pen, paper, transparencies</li>
-                <li>Sketch, Invision, Marvel</li>
-                <li>Snapchat Lens Studio</li>
-                <li>Vuforia, Unity</li>
-                <li>iOS ARKit</li>
+                <li><a href="https://www.sketchapp.com/">Sketch</a>, <a href="https://www.invisionapp.com/">Invision</a>, <a href="https://marvelapp.com">Marvel</a></li>
+                <li><a href="https://lensstudio.snapchat.com/">Snapchat Lens Studio</a></li>
+                <li><a href="https://developer.vuforia.com/">Vuforia</a>, <a href="https://unity3d.com/">Unity</a></li>
+                <li><a href="https://developer.apple.com/arkit/">iOS ARKit</a>, <a href="https://developer.apple.com/xcode/">Xcode</a></li>
               </ul>
             </li>
           </ul>
