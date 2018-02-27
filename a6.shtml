@@ -25,13 +25,21 @@
                         <h1>Assignment 6: Final Project</h1>
 
                         <p class="lead">
-Working in pairs, choose an existing physical site in the city and design a hybrid digital-physical intervention in the form of a location-based mobile app or augmented reality experience that facilitates the site’s goals.</p>
+Working in pairs, choose an existing physical site in the city and design a hybrid digital-physical intervention in the form of a location-based mobile app or augmented reality experience that facilitates the site’s goals.<br><br>As mixed reality technologies seem to remove more and more of the need for people to meet in person, what are reasons to continue to interact with each other in physical space?<br><br>What are reasons to continue living in cities in the future?<br><br>Can we design hybrid physical-digital environments to facilitate these (desireable) interactions?<br><br>
+As part of your proposal, identify:<ul>
+<li>what primary user need you intend to solve? why is this problem an opportunity for mixed reality intervention?</li>
+<li>which technology or data companies would own the data you need and how would it be collected? if your project generates data, who might be interested in your data?</li>
+<li>any assumptions you're making about what personal technology is available to users</li>
+<li>which questions do you want to explore conceptually, and which questions do you want to answer through user testing?</li>
+<li>at least two prior works (tech, architecture, or interaction/exhibition design projects) that have addressed similar questions or employed a similar design approach</li></p>
 
                     </div>
                 </div>
-
-                <p><i>TK</i></p>
-
+                <div id="week0" class="sidenav-anchor">
+                    <a name="week0"></a>
+                    <h2>Week 0: Email 3 Ideas</h2>
+                    <!-- <p><i>TK</i></p> -->
+                </div>
                 <div id="week1" class="sidenav-anchor">
                     <a name="week1"></a>
                     <h2>Week 1: Propose</h2>
