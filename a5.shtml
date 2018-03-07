@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <!--#set var="title" value="UCD for DigiPhys Env - Assignment 5: Design as Critique" -->
+  <!--#set var="title" value="UCD for DigiPhys Env - Assignment 5: Final Project" -->
   <!--#include virtual="includes/header.shtml" -->
 </head>
 
@@ -13,7 +13,7 @@
     <div class="assignment container">
         <div class="row">
             <div class="col-md-2">
-                <div class="sidenav" data-spy="affix"  data-offset-top="80">
+                <div class="sidenav" data-spy="affix" data-offset-top="80">
                     <ul class="nav nav-stacked" id="sidenav-content">
                     </ul>
                 </div> <!-- /sidenav -->
@@ -22,22 +22,52 @@
 
                 <div class="row">
                     <div class="col-md-12">
-                        <h1>Assignment 5: Design as Critique</h2>
+                        <h1>Assignment 5: Final Project</h1>
 
-<!--                         <p class="lead">...</p> -->
+                        <p class="lead">
+Working in pairs, choose an existing physical site in the city and design a hybrid digital-physical intervention in the form of a location-based mobile app or augmented reality experience that facilitates the site’s goals.<br><br>As mixed reality technologies seem to remove more and more of the need for people to meet in person, what are reasons to continue to interact with each other in physical space?<br><br>What are reasons to continue living in cities in the future?<br><br>
+How should the design of the built environment change due to new interactions afforded by technology, such as the new type of store exemplified by Amazon Go?<br><br>
+How could the design of the digital user experience work in tandem with the built environment, which is likely "smart" and "modular", etc., to facilitate desireable interactions?<br><br>
+As part of your proposal, identify:<ul>
+<li>what primary user need you intend to solve? why is this problem an opportunity for mixed reality intervention?</li>
+<li>which technology or data companies would own the data you need and how would it be collected? if your project generates data, who might be interested in your data?</li>
+<li>any assumptions you're making about what personal technology is available to users</li>
+<li>which questions do you want to explore conceptually, and which questions do you want to answer through user testing?</li>
+<li>at least three prior works (tech, architecture, or interaction/exhibition design projects) that have addressed similar questions or employed a similar design approach</li></p>
+
                     </div>
                 </div>
-
-                <p>Working individually, choose one aspect of how mixed reality might impact the future and illustrate a speculative design. Create a presentation to share with the class.</p>
-                <p><i>TK</i></p>
-<!--                 <div id="week1" class="sidenav-anchor">
+                <div id="week0" class="sidenav-anchor">
+                    <a name="week0"></a>
+                    <h2>Week 0: Email 3 Ideas (due March 19)</h2>
+                    <!-- <p><i>TK</i></p> -->
+                </div>
+                <div id="week1" class="sidenav-anchor">
                     <a name="week1"></a>
-                    <h2>Week 1: Storyboard</h2>
-                    <p>
-                    Brainstorm and design three divergent mixed reality experiences to address the users in your space. Illustrate and narrate the user experience through storyboards.
-                    </p><p>
-                    Present your storyboards in class.</p>
-                </div> -->
+                    <h2>Week 1: Propose</h2>
+                    <!-- <p><i>TK</i></p> -->
+                </div>
+                <div id="week2" class="sidenav-anchor">
+                    <a name="week2"></a>
+                    <h2>Week 2: Research</h2>
+                    <!-- <p><i>TK</i></p> -->
+                </div>
+                <div id="week3" class="sidenav-anchor">
+                    <a name="week3"></a>
+                    <h2>Week 3: Prototype</h2>
+                    <!-- <p><i>TK</i></p> -->
+                </div>
+                <div id="week4" class="sidenav-anchor">
+                    <a name="week4"></a>
+                    <h2>Week 4: Evaluate</h2>
+                    <!-- <p><i>TK</i></p> -->
+                </div>
+                <div id="week5" class="sidenav-anchor">
+                    <a name="week5"></a>
+                    <h2>Week 5: Conclusion &amp; Documentation</h2>
+                    <!-- <p><i>TK</i></p> -->
+                </div>
+
 
             </div>
         </div>
